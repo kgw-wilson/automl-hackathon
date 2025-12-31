@@ -20,7 +20,7 @@ We evaluated several AutoML frameworks—including Auto-Sklearn and PyCaret—an
 
 •	Reproducible experimentation, using deterministic seeding and consistent preprocessing
 
-We also began prototyping a custom model selection strategy inspired by multi-armed bandit algorithms, which we presented during the competition.
+Justin also began prototyping a custom model selection strategy inspired by multi-armed bandit algorithms, which we presented during the competition.
 
 ## Technical Challenges & Approach
 
